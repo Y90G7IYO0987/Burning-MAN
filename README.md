@@ -38,8 +38,10 @@ Burning-Man/
 ├── Manager/
 │   ├── Styles/
 │   │   └── Style.Css
+│   ├── Icons/
+│   │   └── Banner.png          # Preview image
 │   └── Images/
-│       ├── header.jpg
+│       ├── header.jpg          # Hero background
 │       ├── logo.png
 │       ├── last-img_1.png
 │       ├── last-img_2.png
